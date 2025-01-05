@@ -1,7 +1,7 @@
 name: ItemValue
-version: '0.0.1'
+version: '1.0'
 main: me.SansNom.itemValue.ItemValue
-api-version: '1.21'
+api-version: '1.21.1'
 prefix: ItemValue
 authors: [SansNom]
 description: Sets values to items, and calculates values of players' inventories and enderchests.
